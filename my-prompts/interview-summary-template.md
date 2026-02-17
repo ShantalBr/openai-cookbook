@@ -26,4 +26,3 @@ Output structure:
 
 Transcript:
 [PASTE TRANSCRIPT HERE]
-
